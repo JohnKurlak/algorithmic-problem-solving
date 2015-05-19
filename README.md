@@ -22,4 +22,11 @@ Each of these books:
 
 ...and they do a great job at it!
 
-However, these books tend to fall short when it comes to explaining the process of arriving at a solution. Instead of explaining motivations for various choices, they just give answers and explanations of those answers.
+However, these books tend to fall short when it comes to explaining the process of arriving at a solution. Instead of explaining motivations for various choices, they just give answers and explanations of those answers. This kind of style is not particularly helpful for the interviewee.
+
+This book exists to fill that gap.
+
+After reading this book, the reader will gain:
+
+1. The algorithmic "head knowledge" necessary to solve a variety of interview problems.
+2. The intuition necessary to know when to use what algorithmic tools and techniques.
