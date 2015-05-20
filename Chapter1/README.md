@@ -1,6 +1,6 @@
 ## Chapter 1: Problem structure
 
-Algorithmic interview problems tend to follow a particular format. Being familiar with this format is necessary for solving problems quickly and accurately.
+Algorithmic interview problems tend to follow a particular format. Being familiar with this format is necessary for solving problems quickly and correctly.
 
 Consider the following problem statement:
 
