@@ -38,5 +38,7 @@ Once you know what the problem is asking, you will be better prepared to analyze
 
 ### Understanding the terminology
 
-Now that you know what your goal is, it's time to break the problem down into its individual parts. To do that, you must understand the jargon used in interview problems.
+Now that you know what your goal is, it's time to break the problem down into its individual parts. To do that, you must understand the terminology used in interview problems.
+
+
 
