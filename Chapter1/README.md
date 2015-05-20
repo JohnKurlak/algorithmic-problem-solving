@@ -4,4 +4,14 @@ Algorithmic interview problems tend to follow a particular format. Being familia
 
 Consider the following problem statement:
 
-> Suppose we are cataloging ```n``` stars. Each star has a brightness, ```b[i]```, where ```0 <= i < n```. Write a method that accepts an array of brightnesses (```b[0...n-1]```) and an integer `k` and returns the `k` brightest stars.
+> You have a catalog of stars, where a star is defined as:
+
+>```
+class Star {
+    String name;
+    int brightness;
+    ...
+}
+```
+
+> Write a method that accepts an array of stars and an integer `k` and returns the `k` brightest stars.
