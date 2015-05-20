@@ -15,3 +15,5 @@ class Star {
 ```
 
 > Write a method that accepts an array of stars and an integer `k` and returns the `k` brightest stars.
+
+The first time you hear a problem statement, try to identify the basic goal of the problem. In this case, the basic goal is to identify the brightest stars in some collection.
