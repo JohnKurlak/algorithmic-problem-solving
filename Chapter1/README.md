@@ -34,3 +34,9 @@ To identify the basic goal of a problem, look for verbs that command you to do s
 
 If you still don't understand what the question is asking, ask your interviewer to clarify.
 
+Once you know what the problem is asking, you will be better prepared to analyze the other components of the problem.
+
+### Understanding the terminology
+
+Now that you know what your goal is, it's time to break the problem down into its individual parts. To do that, you must understand the jargon used in interview problems.
+
