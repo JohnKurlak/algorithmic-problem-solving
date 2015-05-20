@@ -17,3 +17,20 @@ class Star {
 > Write a method that accepts an array of stars and an integer `k` and returns the `k` brightest stars.
 
 The first time you hear a problem statement, try to identify the basic goal of the problem. In this case, the basic goal is to identify the brightest stars in some collection.
+
+### Identifying the goal of a problem
+
+To identify the basic goal of a problem, look for verbs that command you to do something.  Common verbs in problem statements include:
+
+* Find
+* Determine
+* Minimize/maximize
+* Count
+* Calculate
+* Return
+* Design
+
+...and so on.
+
+If you still don't understand what the question is asking, ask your interviewer to clarify.
+
