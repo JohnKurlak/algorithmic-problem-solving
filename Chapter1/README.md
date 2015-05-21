@@ -43,3 +43,9 @@ Many interview problems use specific terminology for:
 * Variables and their ranges
 * Run-time and space complexities
 
+#### Variables and their Ranges
+
+Interview problems use variables to specify quantities whose values are unknown until run-time. This means variables are handy for specifying inputs and outputs, and that is how you will see them used most frequently.
+
+Generally, variables are expressed as a single lowercase or uppercase letter from either the English alphabet (e.g., a, b, c, ...) or the Greek alphabet (e.g., α, β, γ, ...).
+
