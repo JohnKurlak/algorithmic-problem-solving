@@ -14,7 +14,7 @@ class Star {
 }
 ```
 
-> Write a method that accepts an array of stars and an integer `k` and returns the `k` brightest stars.
+> Write a method that accepts an array of ```n``` stars and an integer `k` and returns the `k` brightest stars.
 
 ### Identifying the goal of a problem
 
@@ -48,4 +48,6 @@ Many interview problems use specific terminology for:
 Interview problems use variables to specify quantities whose values are unknown until run-time. This means variables are handy for specifying inputs and outputs, and that is how you will see them used most frequently.
 
 Generally, variables are expressed as a single lowercase or uppercase letter from either the English alphabet (e.g., a, b, c, ...) or the Greek alphabet (e.g., α, β, γ, ...).
+
+In the example problem above, we have two variables: ```n``` and ```k```.
 
