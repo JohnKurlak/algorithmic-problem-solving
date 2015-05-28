@@ -24,7 +24,7 @@ Each of these books:
 
 ...and they do a great job at it!
 
-However, these books tend to fall short when it comes to explaining the process of arriving at a solution. Instead of explaining motivations for various choices, they just provide answers and explanations of those answers. This kind of style is not particularly helpful for the interviewee.
+However, these books tend to fall short when it comes to explaining the process of arriving at a solution. Instead of explaining motivations for various choices, they just provide answers and explanations for those answers. This kind of style is not particularly helpful for the interviewee.
 
 This book exists to fill that gap.
 
