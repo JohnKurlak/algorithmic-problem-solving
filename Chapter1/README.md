@@ -14,7 +14,7 @@ class Star {
 }
 ```
 
-> Write a method that accepts an array of ```n``` stars and an integer `k` and returns the `k` brightest stars.
+> Write a method that accepts an array of ```n``` stars and an integer `k` and returns the `k` brightest stars in ```O(lg n)```.
 
 ### Identifying the goal of a problem
 
@@ -41,7 +41,7 @@ Now that you know what your goal is, it's time to break the problem down into it
 Many interview problems use specific terminology for:
 
 * Variables and their ranges
-* Run-time and space complexities
+* Run-time complexity and space complexity
 * Programming concepts
 
 #### Variables and their Ranges
@@ -52,8 +52,12 @@ Generally, variables are expressed as a single lowercase or uppercase letter fro
 
 In the example problem above, we have two variables: ```n``` and ```k```.
 
-#### Run-time and Space Complexities
+```n``` represents the number of stars that we are given.
+```k``` represents the number of stars that we should return.
 
+#### Run-time Complexity and Space Complexity
+
+Sometimes an interviewer will impose a restriction on run-time complexity or space complexity using Big O notation.
 
 
 #### Programming concepts
