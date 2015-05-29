@@ -1,5 +1,15 @@
 # Glossary
 
+## maximum
+The largest value in a collection.
+
+For example, the largest value in `[1, 44, 39, 2, 39, 18]` is `44`.
+
+## minimum
+The smallest value in a collection.
+
+For example, the smallest value in `[1, 44, 39, 2, 39, 18]` is `1`.
+
 ## subarray
 A slice of contiguous elements in an array.
 
