@@ -6,7 +6,7 @@ Consider the following problem statement:
 
 > You have a catalog of stars, with each star stored as an object of the following class:
 
->```
+>```java
 class Star {
     String name;
     int brightness;
