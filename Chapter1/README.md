@@ -77,3 +77,4 @@ Here are the most common programming terms used in interview problems:
 * recursive
 * iterative
 * frequent
+* common
