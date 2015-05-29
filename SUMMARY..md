@@ -1,4 +1,3 @@
 # Summary
 
-* Appendix A
 
