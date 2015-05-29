@@ -1,4 +1,4 @@
 # Summary
 
-* [README.md](Chapter 1/README.md)
+* [Chapter 1](Chapter 1/README.md)
 
