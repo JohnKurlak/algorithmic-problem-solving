@@ -14,7 +14,7 @@ class Star {
 }
 ```
 
-> Write a method that accepts an array of ```n``` stars and an integer `k` and returns the `k` brightest stars in ```O(lg n)```.
+> Write a method that accepts an array of `n` stars and an integer `k` and returns the `k` brightest stars.
 
 ### Identifying the goal of a problem
 
@@ -50,10 +50,10 @@ Interview problems use variables to specify quantities whose values are unknown 
 
 Generally, variables are expressed as a single lowercase or uppercase letter from either the English alphabet (e.g., a, b, c, ...) or the Greek alphabet (e.g., α, β, γ, ...).
 
-In the example problem above, we have two variables: ```n``` and ```k```.
+In the example problem above, we have two variables: `n` and `k`.
 
-```n``` represents the number of stars that we are given.
-```k``` represents the number of stars that we should return.
+`n` represents the number of stars that we are given.
+`k` represents the number of stars that we should return.
 
 #### Run-time Complexity and Space Complexity
 
