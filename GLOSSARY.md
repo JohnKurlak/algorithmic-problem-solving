@@ -1,5 +1,10 @@
 # Glossary
 
+## lexicographical
+The natural order of characters in an alphabet.
+
+For example, `"cat"` comes before `"train"` and after `"car"` lexicographically.
+
 ## maximum
 The largest value in a collection.
 
