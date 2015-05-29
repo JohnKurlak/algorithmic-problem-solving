@@ -15,6 +15,38 @@ The smallest value in a collection.
 
 For example, the smallest value in `[1, 44, 39, 2, 39, 18]` is `1`.
 
+## permutation
+An ordering of elements in a collection.
+
+For example, the permutations of `"abcd"` are:
+
+```java
+"abcd"
+"abdc"
+"acbd"
+"acdb"
+"adbc"
+"adcb"
+"bacd"
+"badc"
+"bcad"
+"bcda"
+"bdac"
+"bdca"
+"cabd"
+"cadb"
+"cbad"
+"cbda"
+"cdab"
+"cdba"
+"dabc"
+"dacb"
+"dbac"
+"dbca"
+"dcab"
+"dcba"
+```
+
 ## subarray
 A slice of contiguous elements in an array.
 
