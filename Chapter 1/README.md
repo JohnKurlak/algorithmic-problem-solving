@@ -64,7 +64,7 @@ Sometimes an interviewer will impose a restriction on run-time complexity or spa
 
 There are a number of programming concepts that show up in interview problems. Knowing the meaning of these concepts will help you understand problems a lot better.
 
-Here are the most common programming terms used in interview problems:
+Here are some common programming terms used in interview problems:
 
 * subarray
 * substring
@@ -78,3 +78,5 @@ Here are the most common programming terms used in interview problems:
 * iterative
 * frequent
 * common
+
+Refer to the [glossary](../GLOSSARY.md) for definitions and examples.
