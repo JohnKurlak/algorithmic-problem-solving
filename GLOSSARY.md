@@ -1,5 +1,29 @@
 # Glossary
 
+## combination
+A selection of contiguous or non-contiguous elements from a collection. The ordering of the elements is not important. Contrast this with "subsequence," where the ordering of the elements must be from left to right.
+
+For example, the string `"abcd"` has the following combinations:
+
+```java
+""
+"a"
+"b"
+"c"
+"d"
+"ab" or "ba"
+"ac" or "ca"
+"ad" or "da"
+"bc" or "cb"
+"bd" or "db"
+"cd" or "dc"
+"abc" or "acb" or "bac" or "bca" or "cab" or "cba"
+"abd" or "adb" or "bad" or "bda" or "dab" or "dba"
+"acd" or "adc" or "cad" or "cda" or "dac" or "dca"
+"bcd" or "bdc" or "cbd" or "cdb" or "dbc" or "dcb"
+"abcd" or "abdc" or "acbd" (...and so on)
+```
+
 ## lexicographical
 The natural order of characters in an alphabet.
 
@@ -67,7 +91,7 @@ For example, the array `[1, 2, 3, 4]` has the following subarrays:
 ```
 
 ## subsequence
-A selection of contiguous or non-contiguous elements/characters from an array/string, in order from left to right.
+A selection of contiguous or non-contiguous elements from a collection, in order from left to right.
 
 For example, the string `"abcd"` has the following subsequences:
 
