@@ -44,7 +44,7 @@ Many interview problems use specific terminology for:
 * Run-time complexity and space complexity
 * Math and programming concepts
 
-#### Variables and their Ranges
+#### Variables and their ranges
 
 Interview problems use variables to specify quantities whose values are unknown until run-time. This means variables are handy for specifying inputs and outputs.
 
@@ -55,13 +55,13 @@ In the example problem above, we have two variables: `n` and `k`.
 `n` represents the number of stars that we are given.
 `k` represents the number of stars that we should return.
 
-#### Run-time Complexity and Space Complexity
+#### Run-time complexity and space complexity
 
 Sometimes an interviewer will impose a restriction on run-time complexity or space complexity. These restrictions are usually written in Big O notation.
 
 If you are not familiar with Big O notation, please see [Appendix A: Big O Notation](../Appendix A/README.md).
 
-#### Math and Programming Concepts
+#### Math and programming concepts
 
 There are a number of math and programming concepts that show up in interview problems. Knowing the meaning of these concepts will help you better understand technical interview problems.
 
