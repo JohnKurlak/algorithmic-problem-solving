@@ -79,7 +79,6 @@ Here are some common programming terms used in interview problems:
 * frequent
 * common
 * prime number
-* composite number
 
 And many more...
 
