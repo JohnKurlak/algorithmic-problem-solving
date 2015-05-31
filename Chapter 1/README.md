@@ -57,7 +57,9 @@ In the example problem above, we have two variables: `n` and `k`.
 
 #### Run-time Complexity and Space Complexity
 
-Sometimes an interviewer will impose a restriction on run-time complexity or space complexity using Big O notation.
+Sometimes an interviewer will impose a restriction on run-time complexity or space complexity. These restrictions are usually written in Big O notation.
+
+If you are not familiar with Big O notation, please see Appendix A.
 
 
 #### Math and Programming Concepts
