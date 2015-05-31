@@ -26,9 +26,7 @@ Lots of interview problems have an array, string, or data structure as an input.
 
 Consider the problem:
  
->```html
-Write a method to return the mean of a list of integers.
-```
+> Write a method to return the mean of a list of integers.
 
 If you start off with:
  
