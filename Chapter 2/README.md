@@ -14,6 +14,40 @@ Avoiding bad assumptions is difficult. Sometimes the best way to avoid making ba
 
 ### Common Bad Assumptions
 
+1. #### Assuming inputs are non-null
+
+ Lots of interview problems have an array, string, or data structure as an input. Will your algorithm break if one of these is null?
+
+ Consider the problem:
+ 
+ >```html
+ Write a method to return the mean of a list of integers.
+ ```
+
+ If you start off with:
+ 
+ ```java
+ public static double findMean(int[] numbers) {
+     int n = numbers.length;
+     ...
+ }
+ ```
+ 
+ Then you've already made a mistake. If `numbers` is null, your program will throw an exception.
+ 
+ You can ask the interviewer what the expected result is supposed to be when you are passed `null`. If the interviewer leaves the choice up to you, you can throw an exception or you can return a canned value, e.g.:
+ 
+ ```java
+public static double findMean(int[] numbers) {
+    if (numbers == null) {
+        throw new IllegalArgumentException("Cannot find the mean of null array!");
+    }
+     
+    int n = numbers.length;
+    ...
+}
+```
+
 ---
 
 Next: [Chapter 3: ???](../Chapter 3/README.md)
