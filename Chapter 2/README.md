@@ -1,6 +1,4 @@
-## Chapter 2: Understanding the problem
-
-### Challenging assumptions
+## Chapter 2: Challenging assumptions
 
 ---
 
