@@ -90,4 +90,4 @@ At this point, you should understand what the problem is asking. Next, your goal
 
 ---
 
-Now that you have identified the basic components of the problem, you are ready for [Chapter 2: Understanding the problem](../Chapter 2/README.md)!
+Next: [Chapter 2: Understanding the problem](../Chapter 2/README.md)
