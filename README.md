@@ -33,4 +33,6 @@ After reading this book, the reader will gain:
 1. The algorithmic "head knowledge" necessary to solve a variety of interview problems.
 2. The intuition to know when to use what algorithmic tools and techniques.
 
-See you in [Chapter 1: Problem structure](Chapter 1/README.md)!
+---
+
+Next: [Chapter 1: Problem structure](Chapter 1/README.md)
