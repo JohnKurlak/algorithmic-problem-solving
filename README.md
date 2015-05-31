@@ -35,4 +35,4 @@ After reading this book, the reader will gain:
 
 ---
 
-Next: [Chapter 1: Problem structure](Chapter 1/README.md)
+Next: [Chapter 1: Understanding the problem](Chapter 1/README.md)
