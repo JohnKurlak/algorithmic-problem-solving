@@ -78,5 +78,9 @@ Here are some common programming terms used in interview problems:
 * iterative
 * frequent
 * common
+* prime number
+* composite number
+
+And many more...
 
 Refer to the [glossary](../GLOSSARY.md) for definitions and examples.
