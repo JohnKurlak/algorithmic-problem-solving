@@ -88,6 +88,8 @@ Refer to the [glossary](../GLOSSARY.md) for definitions and examples.
 
 At this point, you should understand what the problem is asking. Next, your goal is to identify the inputs and outputs for the problem.
 
+Being able to identify variables in a problem is crucial to being able to identify inputs and outputs.
+
 #### Identifying inputs
 
 Inputs are variables that influence the resulting output for a problem. Therefore, to identify inputs, look at all values that you are given for a problem. For each value, ask yourself, "Could changing this value result in a different output?" If the answer is "Yes," then you have identified an input!
@@ -96,7 +98,9 @@ Consider the example problem above. We are given an array of `n` stars and an in
 
 #### Identifying outputs
 
+Outputs are variables whose values depend on the inputs. Usually, a problem with have a single output, and that output is the answer to the problem.
 
+In the example problem above, the output is a collection of the `k` brightest stars.
 
 ---
 
