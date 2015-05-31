@@ -38,6 +38,8 @@ f(2) = 1
 f(1) = 1
 ```
 
+For example, the first 10 Fibonacci numbers are `[1, 1, 2, 3, 5, 8, 13, 21, 34, 56]`.
+
 ## lexicographical
 The natural order of characters in an alphabet.
 
