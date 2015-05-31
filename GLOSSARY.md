@@ -30,7 +30,7 @@ An integer greater than 1, which is divisible by an integer other than 1 and its
 For example, the first 10 composite numbers are `[4, 6, 8, 9, 10, 12, 14, 15, 16, 18]`.
 
 ## Fibonacci number
-A sequence of numbers, `f(n)`, defined by the following recurrence:
+A sequence of integers, `f(n)`, defined by the following recurrence:
 
 ```java
 f(n) = f(n - 1) + f(n - 2)    for n > 2
