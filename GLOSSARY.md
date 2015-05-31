@@ -24,6 +24,11 @@ For example, the string `"abcd"` has the following combinations:
 "abcd" or "abdc" or "acbd" (...and so on)
 ```
 
+## composite number
+An integer greater than 1, which is divisible by an integer other than 1 and itself.
+
+For example, the first 10 composite numbers are `[4, 6, 8, 9, 10, 12, 14, 15, 16, 18]`.
+
 ## lexicographical
 The natural order of characters in an alphabet.
 
