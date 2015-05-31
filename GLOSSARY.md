@@ -71,6 +71,9 @@ For example, the permutations of `"abcd"` are:
 "dcba"
 ```
 
+## prime number
+An integer greater than 1, which is divisible only by 1 and itself.
+
 ## subarray
 A slice of contiguous elements in an array.
 
