@@ -84,4 +84,4 @@ And many more...
 
 Refer to the [glossary](../GLOSSARY.md) for definitions and examples.
 
-Now that you have identified the basic components of the problem, you are ready for [Chapter 2: Understanding the Problem](../Chapter 2/README.md)!
+Now that you have identified the basic components of the problem, you are ready for [Chapter 2: Understanding the problem](../Chapter 2/README.md)!
