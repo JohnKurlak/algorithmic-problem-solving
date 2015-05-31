@@ -14,6 +14,12 @@ Avoiding bad assumptions is difficult. Sometimes the best way to avoid making ba
 
 ### Common Bad Assumptions
 
+#### Assuming input values have a particular data type
+
+#### Assuming input values have a particular range
+
+#### Assuming you have a binary search tree when only a binary tree is specified
+
 #### Assuming inputs are non-null
 
 Lots of interview problems have an array, string, or data structure as an input. Will your algorithm break if one of these is null?
