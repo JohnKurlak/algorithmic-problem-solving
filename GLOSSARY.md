@@ -40,10 +40,16 @@ f(1) = 1
 
 For example, the first 10 Fibonacci numbers are `[1, 1, 2, 3, 5, 8, 13, 21, 34, 56]`.
 
+## greatest common divisor (GCD)
+[Definition not written yet]
+
 ## lexicographical
 The natural order of characters in an alphabet.
 
 For example, `"cat"` comes before `"train"` lexicographically and after `"car"` lexicographically.
+
+## lowest common multiple (LCM)
+[Definition not written yet]
 
 ## maximum
 The largest value in a collection.
