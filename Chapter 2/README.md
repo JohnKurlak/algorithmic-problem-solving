@@ -12,6 +12,8 @@ For example, suppose an interviewer asks you to find the mean of a list of integ
 
 Avoiding bad assumptions is difficult. Sometimes the best way to avoid making bad assumptions is to learn from experience. However, this chapter aims to provide a few safeguards for the most common bad assumptions.
 
+### Common Bad Assumptions
+
 ---
 
 Next: [Chapter 3: ???](../Chapter 3/README.md)
