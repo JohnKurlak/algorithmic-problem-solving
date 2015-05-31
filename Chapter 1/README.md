@@ -61,7 +61,6 @@ Sometimes an interviewer will impose a restriction on run-time complexity or spa
 
 If you are not familiar with Big O notation, please see [Appendix A: Big O Notation](../Appendix A/README.md).
 
-
 #### Math and Programming Concepts
 
 There are a number of math and programming concepts that show up in interview problems. Knowing the meaning of these concepts will help you better understand technical interview problems.
