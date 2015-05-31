@@ -88,7 +88,15 @@ Refer to the [glossary](../GLOSSARY.md) for definitions and examples.
 
 At this point, you should understand what the problem is asking. Next, your goal is to identify the inputs and outputs for the problem.
 
-In the example problem above, the inputs are the array of `n` stars and the number of stars to return, `k`. The output is a collection of the `k` stars with the maximum brightness.
+#### Identifying inputs
+
+Inputs are variables that influence the resulting output for a problem. Therefore, to identify inputs, look at all values that you are given for a problem. For each value, ask yourself, "Could changing this value result in a different output?" If the answer is "Yes," then you have identified an input!
+
+Consider the example problem above. We are given an array of `n` stars and an integer, `k`. If we change the collection of stars, then we certainly will get a different output. Further, if we change how many stars we want to output, then we also will get a different output.  Therefore, both the collection of stars and the value `k` are inputs.
+
+#### Identifying outputs
+
+
 
 ---
 
