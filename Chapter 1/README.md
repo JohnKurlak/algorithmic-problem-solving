@@ -88,6 +88,8 @@ Refer to the [glossary](../GLOSSARY.md) for definitions and examples.
 
 At this point, you should understand what the problem is asking. Next, your goal is to identify the inputs and outputs for the problem.
 
+In the example problem above, the inputs are the array of `n` stars and the number of stars to return, `k`. The output is a collection of the `k` stars with the maximum brightness.
+
 ---
 
 Next: [Chapter 2: Understanding the problem](../Chapter 2/README.md)
