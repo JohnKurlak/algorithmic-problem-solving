@@ -59,7 +59,7 @@ In the example problem above, we have two variables: `n` and `k`.
 
 Sometimes an interviewer will impose a restriction on run-time complexity or space complexity. These restrictions are usually written in Big O notation.
 
-If you are not familiar with Big O notation, please see [Appendix A](../Appendix A/README.md).
+If you are not familiar with Big O notation, please see [Appendix A: Big O Notation](../Appendix A/README.md).
 
 
 #### Math and Programming Concepts
