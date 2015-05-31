@@ -1,4 +1,4 @@
-## Chapter 1: Problem structure
+## Chapter 1: Understanding the problem
 
 Algorithmic interview problems tend to follow a particular format. Being familiar with this format is necessary for solving problems quickly and correctly.
 
@@ -104,4 +104,4 @@ In the example problem above, the output is a collection of the `k` brightest st
 
 ---
 
-Next: [Chapter 2: Understanding the problem](../Chapter 2/README.md)
+Next: [Chapter 2: Challenging assumptions](../Chapter 2/README.md)
