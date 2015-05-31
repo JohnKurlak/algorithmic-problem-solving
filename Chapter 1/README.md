@@ -84,4 +84,9 @@ And many more...
 
 Refer to the [glossary](../GLOSSARY.md) for definitions and examples.
 
+### Identifying inputs and outputs
+
+At this point, you should understand what the problem is asking. Next, your goal is to identify the inputs and outputs for the problem.
+
+
 Now that you have identified the basic components of the problem, you are ready for [Chapter 2: Understanding the problem](../Chapter 2/README.md)!
