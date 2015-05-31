@@ -61,7 +61,7 @@ public static double findMean(int[] numbers) {
 }
 ```
 
-#### Assuming a collection of inputs has at least `k` items
+#### Assuming an input collection has at least `k` items
 
 ---
 
