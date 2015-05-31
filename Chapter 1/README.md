@@ -42,7 +42,7 @@ Many interview problems use specific terminology for:
 
 * Variables and their ranges
 * Run-time complexity and space complexity
-* Programming concepts
+* Math and programming concepts
 
 #### Variables and their Ranges
 
@@ -60,11 +60,11 @@ In the example problem above, we have two variables: `n` and `k`.
 Sometimes an interviewer will impose a restriction on run-time complexity or space complexity using Big O notation.
 
 
-#### Programming concepts
+#### Math and Programming Concepts
 
-There are a number of programming concepts that show up in interview problems. Knowing the meaning of these concepts will help you understand problems a lot better.
+There are a number of math and programming concepts that show up in interview problems. Knowing the meaning of these concepts will help you better understand technical interview problems.
 
-Here are some common programming terms used in interview problems:
+Here are some common math and programming terms used in interview problems:
 
 * subarray
 * substring
