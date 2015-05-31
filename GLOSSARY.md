@@ -71,6 +71,13 @@ The smallest value in a collection.
 
 For example, the smallest value in `[1, 44, 39, 2, 39, 18]` is `1`.
 
+## palindrome
+A collection of elements whose values are the same forward and backward.
+
+For example, the string `"racecar"` is a palindrome because the reverse of `"racecar"` is `"racecar"`.
+
+You could also say the number `5651565` is a palindrome because it has the same digits forward and backward.
+
 ## permutation
 An ordering of elements in a collection.
 
