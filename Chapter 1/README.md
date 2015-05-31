@@ -83,3 +83,5 @@ Here are some common math and programming terms used in interview problems:
 And many more...
 
 Refer to the [glossary](../GLOSSARY.md) for definitions and examples.
+
+Now that you have identified the basic components of the problem, you are ready for Refer to the [Chapter 2: Understanding the Problem](../Chapter 2/README.md)!
