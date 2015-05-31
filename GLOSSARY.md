@@ -29,8 +29,18 @@ An integer greater than 1, which is divisible by an integer other than 1 and its
 
 For example, the first 10 composite numbers are `[4, 6, 8, 9, 10, 12, 14, 15, 16, 18]`.
 
+## factorial
+An integer, `n!`, defined by the following recurrence:
+
+```java
+n! = n * (n-1)!    for n > 0
+0! = 1
+```
+
+For example, the first 10 factorials are `[1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800]`.
+
 ## Fibonacci number
-A sequence of integers, `f(n)`, defined by the following recurrence:
+An integer, `f(n)`, defined by the following recurrence:
 
 ```java
 f(n) = f(n - 1) + f(n - 2)    for n > 2
