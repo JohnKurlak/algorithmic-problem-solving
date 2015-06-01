@@ -115,6 +115,9 @@ An integer greater than 1, which is divisible only by 1 and itself.
 
 For example, the first 10 prime numbers are `[2, 3, 5, 7, 11, 13, 17, 19, 23, 29]`.
 
+## set
+[Definition not written yet]
+
 ## subarray
 A slice of contiguous elements in an array.
 
