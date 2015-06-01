@@ -34,7 +34,18 @@ public class MedianCollection {
 }
 ```
 
-The problem here is that you have assumed the numbers you are given are all integers. When interviewers use generic words like *number* instead of specific words like *integer*, ask them to clarify.
+The problem here is that you have assumed that all the numbers in the collection are `int` values. The numbers in the collection could potentially be `double` values. The point is that you don't know, so you have to ask your interviewer for more information.
+
+You might ask, "What kind of numbers can be inserted into the data structure? Integers only? Real numbers?"
+
+To avoid making this mistake, learn to identify generic words like *number*. When you hear them, ask for clarification.
+
+Look out for the following generic words in a problem statement:
+
+* **number** -- what kind of number?
+* **tree** -- what kind of tree?
+* **list** -- what kind of list? an array? a linked list? a resizable array?
+* **graph** -- what kind of graph? directed? acyclic?
 
 #### Assuming input values have a particular range
 
