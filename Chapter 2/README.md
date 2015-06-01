@@ -18,7 +18,7 @@ Avoiding bad assumptions is difficult. Sometimes the best way to avoid making ba
 
 An interviewer might ask something like:
 
-> Implement a data structure that supports `insert()` and `getMedian()` efficiently. The `insert()` method should insert a number into the data structure. The `getMedian()` method should return the median of all inserted numbers.
+> Implement an efficient data structure that supports `insert()` and `getMedian()`. The `insert()` method should insert a number into the data structure. The `getMedian()` method should return the median of all inserted numbers.
 
 You might go on to write a class that looks like:
 
