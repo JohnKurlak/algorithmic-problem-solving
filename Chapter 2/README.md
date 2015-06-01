@@ -16,6 +16,26 @@ Avoiding bad assumptions is difficult. Sometimes the best way to avoid making ba
 
 #### Assuming input values have a particular data type
 
+An interviewer might ask something like:
+
+> Implement a data structure that supports `insert()` (inserts a number) and `getMedian()` (gets the median of all inserted numbers) efficiently.
+
+You might go on to write a class that looks like:
+
+```java
+public class MedianFinder {
+    public void insert(int number) {
+        ...
+    }
+    
+    public double getMedian() {
+        ...
+    }
+}
+```
+
+The problem here is that you have assumed the numbers you are given are all integers. When interviewers use generic words like *number* instead of specific words like *integer*, ask them to clarify.
+
 #### Assuming input values have a particular range
 
 #### Assuming you have a binary search tree when only a binary tree is specified
