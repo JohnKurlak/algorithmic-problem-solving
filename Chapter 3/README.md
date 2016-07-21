@@ -10,6 +10,8 @@ For example, suppose you are given a reference to a binary tree node and need to
 
 As you ponder sample inputs and outputs, you will start coming up with ideas on how to solve the problem. You can't transform a sample input into the correct output without knowing how to solve the problem. Whatever you are doing to solve the problem in your head is probably close to the brute force solution, so this step is important.
 
+In addition to coming up with ideas on solving the problem, you will also start to think about edge cases. If you try the example above of finding the in-order successor of the largest node in the binary tree, you will realize that the in-order successor is not defined for that node. Then you can ask your interviewer, "What should I return if there is no in-order successor for a node? Does null work?" Discovering edge cases early will save you time later.
+
 ---
 
 Next: [Chapter 4: ???](../Chapter 4/README.md)
