@@ -108,5 +108,5 @@ Many people assume that whatever collection they are working with has enough ele
 
 ---
 
-Next: [Chapter 3: ???](../Chapter 3/README.md)
+Next: [Chapter 3: Working through examples](../Chapter 3/README.md)
 
