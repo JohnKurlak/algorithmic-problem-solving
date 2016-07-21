@@ -99,7 +99,7 @@ Consider the example problem above. We are given an array of `n` stars and an in
 
 #### Identifying outputs
 
-Outputs are variables whose values depend on the inputs. Usually, a problem with have a single output, and that output is the answer to the problem.
+Outputs are variables whose values depend on the inputs. Usually, a problem will have a single output, and that output is the answer to the problem.
 
 In the example problem above, the output is a collection of the `k` brightest stars.
 
