@@ -104,6 +104,8 @@ public static double findMean(int[] numbers) {
 
 #### Assuming an input collection has at least `k` items
 
+Many people assume that whatever collection they are working with has enough elements in it. For example, maybe you are asked to find the `k` brightest stars in a list of `n` stars. It's easy to assume that `n >= k` because that's the only way you can arrive at a meaningful solution. However, it's possible that someone will pass an empty list or a list with only three values when `k` is  a larger value, like ten. Make sure the code you write accounts for the possibility that `n < k` by throwing an exception in that case.
+
 ---
 
 Next: [Chapter 3: ???](../Chapter 3/README.md)
