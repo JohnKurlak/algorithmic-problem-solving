@@ -58,6 +58,8 @@ It's also common to make this kind of mistake with collections. Many people assu
 
 A common mistake is to assume that you have a binary search tree when the interviewer says "binary tree." The best way to avoid this mistake it to listen carefully to what the interviewer says.
 
+You can solve lots of problems more efficiently if you are given a binary search tree, so it is tempting to assume that you have one. For instance, consider the problem of finding the lowest common ancestor of two nodes. If you are given a (balanced) binary search tree, the problem can be solved in `O(lg n)` time. If you are given a regular binary tree, the problem can be solved in `O(n)` time.
+
 #### Assuming inputs are non-null
 
 Lots of interview problems have an array, string, or data structure as an input. Will your algorithm break if one of these is null?
