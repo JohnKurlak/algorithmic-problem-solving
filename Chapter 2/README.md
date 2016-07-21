@@ -49,6 +49,11 @@ Look out for the following generic words in a problem statement:
 
 #### Assuming input values have a particular range
 
+It's common to assume that the input values you are given will lie in some range that makes sense for the problem.
+
+It's also common to make this kind of mistake with collections. Many people assume that whatever collection they are working with has enough elements in it. For example, maybe you are asked to find the `k` brightest stars in a list of `n` stars. It's easy to assume that `n >= k` because that's the only way you can arrive at a meaningful solution. However, it's possible that someone will pass an empty list or a list with only three values when `k` is  a larger value, like ten. Make sure the code you write accounts for the possibility that `n < k` by throwing an exception in that case.
+
+
 #### Assuming you have a binary search tree when only a binary tree is specified
 
 #### Assuming inputs are non-null
