@@ -56,6 +56,8 @@ It's also common to make this kind of mistake with collections. Many people assu
 
 #### Assuming you have a binary search tree when only a binary tree is specified
 
+A common mistake is to assume that you have a binary search tree when the interviewer says "binary tree."  The best way to avoid this mistake it to listen carefully.
+
 #### Assuming inputs are non-null
 
 Lots of interview problems have an array, string, or data structure as an input. Will your algorithm break if one of these is null?
